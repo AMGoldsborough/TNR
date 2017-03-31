@@ -21,4 +21,4 @@ http://arxiv.org/abs/1304.6112
 
 Both of which can be downloaded by selecting "other formats" and "download source" on arXiv.
 
-Please note that this code is meant for illustrative purposes only.
+Please note that this code is meant for illustrative purposes only and there is also a bug in it somewhere.
